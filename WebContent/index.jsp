@@ -16,7 +16,7 @@
 					<td><input type="text" name="username"></td>
 				</tr>
 				<tr>
-					<td>性别：</td>
+					<td>性别：</td> 
 					<td><input type="radio" name="usergender" value="男">男
 					<input type="radio" name="usergender" value="女">女
 					</td>
